@@ -1,10 +1,14 @@
-BooksRecommended
+Books Recommended
 ================
 
 JavaScript
 ----------------
 * JavaScript The Definitive Guide
 * Pro JavaScript with MooTools
+
+CSS
+----------------
+* CSS Mastery - Advanced Web Standards Solutions
 
 Programming
 ----------------
