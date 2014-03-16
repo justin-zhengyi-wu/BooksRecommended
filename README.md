@@ -3,6 +3,7 @@ Books Recommended
 
 JavaScript
 ----------------
+* DOM Scripting: Web Design with JavaScript and the Document Object Model (2nd Edition)
 * JavaScript The Definitive Guide
 * Pro JavaScript with MooTools
 
