@@ -27,6 +27,7 @@ Programming
 ----------------
 * The Art of Computer Programming
 * Code Complete
+* Apprenticeship Patterns
 
 Others
 ----------------
