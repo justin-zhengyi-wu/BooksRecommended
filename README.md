@@ -11,6 +11,7 @@ Fundamental
 * 《人月神话》
 * Code Complete 2
 * Programming Peals 编程珠玑
+* Behind Closed Doors : Secrets of Great Management | 门后的秘密:卓越管理的故事
 
 
 JavaScript
