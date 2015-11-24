@@ -39,3 +39,4 @@ Others
 * Antifragile: Things That Gain from Disorder | 反脆弱:从不确定性中获益
 * 中国国民性演变历程 by 张宏杰
 * 情感堵塞：民主德国的心理转型 | Der Gefühlsstau - ein Psychogramm der DDR
+* Beyond Feelings - A Guide to Critical Thinking
