@@ -42,3 +42,4 @@ Others
 * Beyond Feelings - A Guide to Critical Thinking
 * Animal Farm | 动物庄园 by George Orwell
 * The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results | 最重要的事 只有一件 by Gary Keller & Jay Papasan
+* 思维的乐趣
